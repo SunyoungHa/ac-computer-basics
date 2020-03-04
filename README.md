@@ -16,7 +16,7 @@ This module introduces students to the core fundamentals of using a computer and
 # Resources
 1) Check out the AnnieCannons Digital Literacy Handbook PDF
 2) Typing.com is a wonderful place to practice your typing. Our students need to get to 45 WPM with 98% accuracy.
-4) Definitely check this out from FreeCodeCamp: https://www.freecodecamp.com/videos/computer-basics-the-4-basic-parts-of-a-computer
+4) Definitely check this out from FreeCodeCamp: https://www.freecodecamp.com/videos/computer-basics-the-4-basic-parts-of-a-computer. ------> the link does not exit.
 
 
 
